@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mackenzie /"Mack/" Damavandi
+title: Mackenzie "Mack" Damavandi
 
 # Username (this should match the folder name)
 authors:
@@ -72,6 +72,6 @@ email: "mack.damavandi@gmail.com"
 # user_groups:
 # - Researchers
 # - Visitors
-# ---
+---
 
 Mack Damavandi is a natural born problem solver located in Utah. He enjoys learning new things and wrangling his two young children. 
