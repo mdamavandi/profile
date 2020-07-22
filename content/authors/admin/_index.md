@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mackenzie "Mack" Damavandi
+title: Mackenzie /"Mack/" Damavandi
 
 # Username (this should match the folder name)
 authors:
