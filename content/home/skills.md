@@ -21,8 +21,8 @@ subtitle = ""
   description = "★★★★★"
   
 [[feature]]
-  icon = "data"
-  icon_pack = "custom"
+  icon = "database"
+  icon_pack = "fas"
   name = "SQL"
   description = "★★★★★" 
 
