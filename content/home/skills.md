@@ -17,20 +17,14 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "R"
+  name = "Python"
   description = "★★★★★"
   
 [[feature]]
   icon = "database"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "SQL"
-  description = "★★★★★"  
-  
-[[feature]]
-  icon = "go"
-  icon_pack = "icon"
-  name = "Go"
-  description = "★"
+  description = "★★★★★" ` 
 
 # Uncomment to use emoji icons.
 # [[feature]]
