@@ -24,7 +24,7 @@ subtitle = ""
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "★★★★★" ` 
+  description = "★★★★★" 
 
 # Uncomment to use emoji icons.
 # [[feature]]
