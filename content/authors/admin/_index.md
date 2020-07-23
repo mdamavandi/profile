@@ -62,7 +62,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/Mack_Damavandi_Resume_Jul2020.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mack.damavandi@gmail.com"
@@ -72,6 +72,6 @@ email: "mack.damavandi@gmail.com"
 # user_groups:
 # - Researchers
 # - Visitors
-# ---
+---
 
 Mack Damavandi is a natural born problem solver located in Utah. He enjoys learning new things and wrangling his two young children. 
